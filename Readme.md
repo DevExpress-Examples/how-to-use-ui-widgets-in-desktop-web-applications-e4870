@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to use UI widgets in desktop web applications
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4870)**
+**[[Run Online]](https://codecentral.devexpress.com/e4870/)**
 <!-- run online end -->
 
 
