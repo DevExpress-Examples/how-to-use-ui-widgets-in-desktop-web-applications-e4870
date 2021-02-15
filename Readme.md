@@ -1,16 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
+# This example is obsolete
 
-* [index.html](./CS/WebSite/index.html) (VB: [index.html](./VB/WebSite/index.html))
-<!-- default file list end -->
-# How to use UI widgets in desktop web applications
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4870/)**
-<!-- run online end -->
-
-
-<p>This example is an illustration of the <a href="https://www.devexpress.com/Support/Center/p/KA18848">How to use PhoneJS widgets in desktop web applications</a>. Refer to the Article for an explanation.</p>
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
